@@ -4,22 +4,360 @@
     "type": "split",
     "children": [
       {
-        "id": "8a879a69d9ea83a4",
+        "id": "82cb37f38e920868",
         "type": "tabs",
         "children": [
           {
-            "id": "47261986c3014b1a",
+            "id": "c7ca3503ce5bfa81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Program/WebDev Что нужно знать из JS перед React.md",
+                "file": "templates/New Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eda7865a5055846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Program/React router DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "471bb4d89b21a92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "состояние.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3996966c91459909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Program/css свойства.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb877ca13f804775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия/git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287a27546df1b067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93fff3603addd052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca19ea229e8be994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UI-cases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac2fbeae7079a06e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "e1ce17aab09271bb"
+          },
+          {
+            "id": "14bec45f2a111d36",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "React.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946917,
+                  "close": false
+                }
+              }
+            },
+            "group": "e1ce17aab09271bb"
+          },
+          {
+            "id": "4177a39118d94e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Селекторы-Js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e333d55f6f364d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SmartPro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7b0fffcd79d79e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UI-cases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e5b607d92bc665b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddc7b5213ec8dced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "next JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a056b25288a22e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SmartPro-ToDo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b062e29f6051d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa5301f7d851965e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Селекторы-Js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b9ef992ed551442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfdaeac0560cba74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ade69f73a699223c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4746c3f91214192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a399ca0130e0c2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux на Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19011cd70bb210d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Макс/Обучение Макса.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e987a69c0ccc5e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "массив.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf895c26f29e9d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "project SlySoft/Chacman center.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3143d2bbf37389d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -48,7 +386,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,9 +423,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program/WebDev Что нужно знать из JS перед React.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "project SlySoft/Chacman center.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +440,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program/WebDev Что нужно знать из JS перед React.md",
+                "file": "project SlySoft/Chacman center.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +463,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Program/WebDev Что нужно знать из JS перед React.md"
+                "file": "project SlySoft/Chacman center.md"
+              }
+            }
+          },
+          {
+            "id": "b2bac4d89e3fac53",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -133,8 +481,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,18 +493,52 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "47261986c3014b1a",
+  "active": "bf895c26f29e9d75",
   "lastOpenFiles": [
-    "Деструктуризация.md",
-    "Program/WebDev Что нужно знать из JS перед React.md",
-    "spread и rest.md",
-    "стрелочные функции.md",
-    "Import Export.md",
-    "spread.md",
-    "let.md",
-    "const.md",
-    "Program/Ulbi Tv.md",
-    "Program/css силекторы.md",
+    "SmartPro.md",
+    "project SlySoft/Chacman center.md",
+    "project SlySoft/Ордон-строй.md",
+    "Linux на Windows.md",
+    "project SlySoft",
+    "команды git.md",
+    "Без названия/git.md",
+    "map.md",
+    "массив.md",
+    "Таски/pizza list.md",
+    "Таски/Smart Pro АдабтивsearchPage.md",
+    "Макс/Обучение Макса.md",
+    "Макс",
+    "структуры данных в js.md",
+    "React.md",
+    "css.md",
+    "next JS.md",
+    "SmartPro-ToDo.md",
+    "Работа с API.md",
+    "как подымать SmartPro.md",
+    "Shell.md",
+    "как-убрть-скролл-на-сайте.md",
+    "overflow.md",
+    "адабтив для таблиц.md",
+    "Селекторы-Js.md",
+    "типизация пропсов.md",
+    "Props.md",
+    "Program/React router DOM.md",
+    "Pasted image 20231004143906.png",
+    "Pasted image 20230914123430.png",
+    "Pasted image 20230914123406.png",
+    "JS",
+    "Pasted image 20230905205904.png",
+    "Pasted image 20230905205841.png",
+    "Без названия",
+    "Pasted image 20230821094336.png",
+    "Pasted image 20230821094321.png",
+    "Pasted image 20230821094301.png",
+    "Pasted image 20230821094255 1.png",
+    "Pasted image 20230821094255.png",
+    "templates",
+    "Таски",
+    "текста песен",
+    "гугл акк",
     "Program/Без названия",
     "Program"
   ]
